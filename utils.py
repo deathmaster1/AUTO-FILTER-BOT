@@ -639,7 +639,7 @@ async def send_all(bot, userid, files, ident, chat_id, user_name, query):
                             InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url='https://t.me/Death_movies'),
                             InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url='https://t.me/Death_movie')
                         ],[
-                            InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url='https://t.me/M4STER_D')
+                            InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url='https://t.me/MSTERRRRRR')
                         ]]
                     )
                 )
